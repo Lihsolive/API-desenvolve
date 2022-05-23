@@ -1,0 +1,33 @@
+{
+  "name": "desenvolve-squad-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pgomesdev/desenvolve-squad-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pgomesdev/desenvolve-squad-1/issues"
+  },
+  "homepage": "https://github.com/pgomesdev/desenvolve-squad-1#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "path": "^0.12.7",
+    "sequelize": "^6.19.0",
+    "sequelize-cli": "^6.4.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.12",
+    "@babel/register": "^7.17.7",
+    "dotenv": "^16.0.1",
+    "nodemon": "^2.0.16"
+  }
+}
