@@ -8,7 +8,7 @@
 
 API de listagem de usuários - mentoria
 
-# API de listagem de usuários - mentoria - Programa Desenvolve
+# CRUD - mentoria - Programa Desenvolve
 ___
 
 ## Tecnologias usadas:
