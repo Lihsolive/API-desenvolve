@@ -6,7 +6,7 @@
 - [Stephane Malo](https://github.com/gstephanie)
 - [Lucas Matheus](https://github.com/LucasMatheus12 ) -->
 
-API de listagem de usuários - mentoria
+API de listagem, criação, atualização e deleção de usuários
 
 # CRUD - mentoria - Programa Desenvolve
 ___
