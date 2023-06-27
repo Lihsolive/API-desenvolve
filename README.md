@@ -6,10 +6,23 @@
 - [Stephane Malo](https://github.com/gstephanie)
 - [Lucas Matheus](https://github.com/LucasMatheus12 ) -->
 
-API de listagem de usuários - mentoria
+API de listagem, criação, atualização e deleção de usuários
 
-# API de listagem de usuários - mentoria - Programa Desenvolve
+# CRUD - mentoria - Programa Desenvolve
 ___
+
+## Tecnologias usadas:
+
+<div style="display: inline-block">
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
+  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" >
+  <img  align="center" alt="Sequelize" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" />
+  <img  align="center" alt="Express" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+  <img  align="center" alt="MySQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
+</div>
+
+
 ## Para executar o projeto:
 
 1.	Instale as dependências executando o seguinte código na raiz do projeto:
